@@ -92,10 +92,6 @@ Then browse:
 
 This project is an excellent opportunity to practice your React and Java Servlet skills by implementing a fun and interactive game. Good luck and enjoy coding!
 
----
-
-**Contributors**:
-- Lubaba Nairoukh
 
 
 
